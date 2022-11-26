@@ -1,0 +1,2 @@
+insert into usuario(nombres, apellidos, nombre_completo, email, password, rol, fecha_creacion,status) values('Admin', 'Admin', 'Admin Admin', 'admin@admin.com', '$2y$10$Zpid3BD7.VnI7Jj.Av9iX.Ij1hLrXNVUZnjghl5YL93y6FTNw/VPy', 'ADMIN', '2021-10-29 10:20:00',1);
+insert into usuario(nombres, apellidos, nombre_completo, email, password, rol, fecha_creacion,status) values('Usuario', 'Usuario', 'Usuario Usuario', 'usuario@usuario.com', '$2y$10$bGeAEiNideGwKXAv71gTduGxwrFuRJbtCfUrW30dkUCv/A1HFnJYe', 'USUARIO', '2021-10-29 10:20:00',0);
